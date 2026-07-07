@@ -1,0 +1,5 @@
+.pio/
+.DS_Store
+.claude/
+.history/
+*.lck
